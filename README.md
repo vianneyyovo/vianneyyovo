@@ -1,8 +1,5 @@
 ### Hi there I'm Vianney 👋
 
-I'm honored you're visiting my GitHub! :octocat:
+Let's create the IT solutions you need to make your business stand out.!
 
 
-- 🔭 I’m currently working as IT Developer
-- 🌱 I’m currently learning Software Engineer
-- 👯 I’m looking to collaborate on web developpement and data analytics projects
