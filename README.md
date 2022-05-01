@@ -2,4 +2,4 @@
 
 We work to find solutions...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianneyyovo&show_icons=true&icon_color=hex white&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianneyyovo&show_icons=true&icon_color=hex_white&theme=tokyonight)
