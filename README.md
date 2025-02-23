@@ -4,6 +4,7 @@ Currently pursuing a master’s in data engineering, he works as a developer at 
 
 Beyond his professional journey, Vianney serves as the Togo coordinator for [First Step Robotics](https://fsrobotics.co.uk/), inspiring young minds in robotics and STEM education.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vianneyyovo&show_icons=true&count_private=true&icon_color=#296ECA&title)
 
 
 
