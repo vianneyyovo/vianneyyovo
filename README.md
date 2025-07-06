@@ -4,7 +4,7 @@ Currently pursuing a master’s in data engineering, he works as a developer at 
 
 Beyond his professional journey, Vianney serves as the Togo coordinator for [First Step Robotics](https://fsrobotics.co.uk/), inspiring young minds in robotics and STEM education and cofonder [jyle](https://jyle.co.uk/), a software engineering agency.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vianneyyovo&show_icons=true&count_private=true&icon_color=296ECA&title_color=000000&text_color=FFFFFF&bg_color=00000000&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vianneyyovo&show_icons=true&count_private=true&icon_color=296ECA&title_color=FFFFFF&text_color=FFFFFF&bg_color=00000000&hide_border=true)
 
 
 
