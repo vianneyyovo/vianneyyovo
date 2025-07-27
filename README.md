@@ -1,8 +1,8 @@
-Vianney is a passionate Software Engineer and Data Engineer from Togo. He is dedicated to leveraging technology for agricultural innovation, optimizing yields through data-driven solutions and IoT.
+Vianney is a passionate Software Engineer and Data Engineer from Togo. He is committed to harnessing technology for agricultural innovation, leveraging data-driven solutions and IoT to optimize yields and drive impact.
 
-Currently pursuing a master’s in data engineering, he works as a developer at Pandore, a digital marketing agency specializing in creating effective online strategies for businesses. At Pandore, Vianney helps build solutions that improve client engagement, visibility, and growth.
+Currently pursuing a master’s in data engineering, Vianney is actively involved in developing tools and platforms that enhance digital transformation and operational efficiency.
 
-Beyond his professional journey, Vianney serves as the Togo coordinator for [First Step Robotics](https://fsrobotics.co.uk/), inspiring young minds in robotics and STEM education and cofonder [jyle](https://jyle.co.uk/), a software engineering agency.
+Beyond his technical career, Vianney serves as the Togo coordinator for [First Step Robotics](https://fsrobotics.co.uk/), where he promotes robotics and STEM education among youth. He is also the co-founder of Jyle, a software engineering agency dedicated to building robust and scalable tech solutions.
 
 ![vianneyyovo](https://github-readme-stats.vercel.app/api?username=vianneyyovo&theme=github_dark&show_icons=true&hide_title=true)
 
