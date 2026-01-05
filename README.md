@@ -1,8 +1,8 @@
-Vianney is a passionate Software Engineer and Data Engineer from Togo. He is committed to harnessing technology for agricultural innovation, leveraging data-driven solutions and IoT to optimize yields and drive impact.
+Vianney is a passionate Data Engineer and AI enthusiast from Togo, committed to leveraging technology to drive agricultural innovation and digital transformation. He focuses on building data-driven solutions and platforms that support sustainable, inclusive, and impact-oriented AgriTech ecosystems.
 
-Currently pursuing a master’s in data engineering, Vianney is actively involved in developing tools and platforms that enhance digital transformation and operational efficiency.
+Currently pursuing a master’s degree in Artificial Intelligence and Big Data, Vianney combines academic rigor with hands-on projects in data engineering, applied AI, and digital platforms aimed at improving operational efficiency and decision-making.
 
-Beyond his technical career, Vianney serves as the Togo coordinator for [First Step Robotics](https://fsrobotics.co.uk/), where he promotes robotics and STEM education among youth. He is also the co-founder of Jyle, a software engineering agency dedicated to building robust and scalable tech solutions.
+Beyond his technical journey, he is actively engaged in volunteering, communication, and community initiatives, contributing to youth engagement, digital inclusion, and innovation-led development. He is also the cofounder of [Togo AgTech Hub](https://www.togoagtechhub.org/), an initiative dedicated to accelerating AgriTech innovation and collaboration across Africa.
 
 
 
